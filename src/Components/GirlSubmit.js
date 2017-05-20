@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { familyNames } from '../Data/family.json';
-import { girlsNames } from '../Data/girls.json'
+import { girlsNames } from '../Data/girls.json';
 
 let buttonDivStyle = {
   margin: '5%',
@@ -12,8 +12,13 @@ const selectRand = arr => {
 }
 
 class GirlSubmit extends Component {
+  constructor() {
+    super() 
+    this.createGirlName = this.createGirlName.bind(this)
+  }
 
   createGirlName(e) {
+    this.props.createName(selectRand(familyNames) + " " + selectRand(girlsNames))
     e.preventDefault()
   }
 
