@@ -1,13 +1,40 @@
 {
 	"girlsNames": [
-                  "Seo Yoon",
-                  "Seo Yeon",
-                  "Ji Woo",
-                  "Ji Yoo",
-                  "Ha Yoon",
-                  "Seo Hyeon",
-                  "Min Seo",
-                  "Ha Eun",
-                  "Da Eun"
-                ]
+		{
+			"en": "Seoyeon",
+			"kor": "서연"
+		},
+		{
+			"en": "Jiwoo",
+			"kor": "지우"
+		},
+		{
+			"en": "Jiyoo",
+			"kor": "지유"
+		},
+		{
+			"en": "Hayoon",
+			"kor": "하윤"
+		},
+		{
+			"en": "Seohyeon",
+			"kor": "서현"
+		},
+		{
+			"en": "Minseo",
+			"kor": "민서"
+		},
+    {
+			"en": "Haeun",
+			"kor": "하은"
+		},
+    {
+			"en": "Daeun",
+			"kor": "다은"
+		},
+    {
+			"en": "Jia",
+			"kor": "지아"
+		}
+	]
 }

@@ -15,14 +15,14 @@ class App extends Component {
     super()
      this.state = {
       showComponent: false,
-      name: ''
+      enName: '',
+      korName: ''
     }
     this.createName = this.createName.bind(this)
   }
 
- createName(name) {
-   this.setState({ showComponent: true, name: name })
-   console.log(name)
+ createName(kor, en) {
+   this.setState({ showComponent: true, enName: en, korName: kor })
  }
 
   render() {
@@ -31,7 +31,7 @@ class App extends Component {
         <Heading />
         <BoySubmit createName={this.createName} />
         <GirlSubmit createName={this.createName} />
-        { this.state.showComponent? <NameDisplay name={this.state.name}/> : null }
+        { this.state.showComponent? <NameDisplay enName={this.state.enName} korName={this.state.korName} /> : null }
       </div>
     )
   }

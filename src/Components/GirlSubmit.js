@@ -18,7 +18,13 @@ class GirlSubmit extends Component {
   }
 
   createGirlName(e) {
-    this.props.createName(selectRand(familyNames) + " " + selectRand(girlsNames))
+    const firstName = selectRand(girlsNames)
+    const lastName = selectRand(familyNames)
+
+    const korName = lastName['kor'] + firstName['kor']
+    const enName = lastName['en'] + ' ' + firstName['en']
+
+    this.props.createName(korName, enName)
     e.preventDefault()
   }
 

@@ -1,14 +1,43 @@
 {
-	"boysNames": [
-                "Min Joon",
-                "Seo Joon",
-                "Ha Joon",
-                "Do Yoon",
-                "Joo Won",
-                "Ye Joon",
-                "Joon Woo",
-                "Ji Ho",
-                "Ji Hu",
-                "Jun Seo"
-	            ]
+	"boysNames": [{
+			"en": "Minjoon",
+			"kor": "민준"
+		},
+		{
+			"en": "Seojoon",
+			"kor": "서준"
+		},
+		{
+			"en": "Hajoon",
+			"kor": "하준"
+		},
+		{
+			"en": "Doyoon",
+			"kor": "도윤"
+		},
+		{
+			"en": "Juwon",
+			"kor": "주원"
+		},
+		{
+			"en": "Yejoon",
+			"kor": "예준"
+		},
+		{
+			"en": "Junwoo",
+			"kor": "준우"
+		},
+    {
+			"en": "Jiho",
+			"kor": "지호"
+		},
+    {
+			"en": "Jihu",
+			"kor": "지후"
+		},
+    {
+			"en": "Junseo",
+			"kor": "준서"
+		}
+	]
 }

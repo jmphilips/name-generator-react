@@ -1,12 +1,34 @@
 {
-	"familyNames": [
-                    "Kim",
-                    "Li",
-                    "Park",
-                    "Jung",
-                    "Choi",
-                    "Jo",
-                    "Kang",
-                    "Yoo"
-                  ]
+	"familyNames": [{
+			"en": "Kim",
+			"kor": "김"
+		},
+		{
+			"en": "Lee",
+			"kor": "이"
+		},
+		{
+			"en": "Jeong",
+			"kor": "정"
+		},
+		{
+			"en": "Choe",
+			"kor": "최"
+		},
+		{
+			"en": "Jo",
+			"kor": "조"
+		},
+		{
+			"en": "Kang",
+			"kor": "강"
+		},
+		{
+			"en": "Yu",
+			"kor": "유"
+		}, {
+			"en": "Park",
+			"kor": "박"
+		}
+	]
 }
