@@ -1,0 +1,40 @@
+{
+	"girlsNames": [
+		{
+			"en": "Wang Fang",
+			"kor": "王芳"
+		},
+		{
+			"en": "Wang Xiu Ying",
+			"kor": "王秀英"
+		},
+		{
+			"en": "Li Xiu Ying",
+			"kor": "李秀英"
+		},
+		{
+			"en": "Li Na",
+			"kor": "李娜"
+		},
+		{
+			"en": "Zhang Xiu Ying",
+			"kor": "张秀英"
+		},
+		{
+			"en": "Zhang Min",
+			"kor": "张敏"
+		},
+    {
+			"en": "Li Jing",
+			"kor": "李静"
+		},
+    {
+			"en": "Wang Jing",
+			"kor": "王静"
+		},
+    {
+			"en": "Zhang Jing",
+			"kor": "张静"
+		}
+	]
+}
