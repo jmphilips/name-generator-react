@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "korean-name-gen"
+    "default": "name-gen"
+    
   }
 }

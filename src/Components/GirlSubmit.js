@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { familyNames } from '../Chinese-Data/family.json';
-import { girlsNames } from '../Chinese-Data/girls.json';
+import { familyNames } from '../Korean-Data/family.json';
+import { girlsNames } from '../Korean-Data/girls.json';
 
 let buttonDivStyle = {
   margin: '5%',

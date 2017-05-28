@@ -7,7 +7,7 @@ import NameDisplay from './Components/NameDisplay'
 let appStyle = {
   textAlign: 'center',
   margin: 'auto',
-  fontFamily: 'calibri'
+  fontFamily: 'Helvetica'
 }
 
 class App extends Component {
